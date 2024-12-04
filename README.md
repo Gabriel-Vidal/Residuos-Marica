@@ -67,7 +67,8 @@ Este projeto tem como objetivo criar uma aplicação para o gerenciamento eficie
 
 3. **Frontend**
    ```bash
-
+   cd frontend
+   npm install
 
 5. **Acesse a Aplicação**
    Backend: http://localhost:5000
