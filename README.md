@@ -53,3 +53,22 @@ Este projeto tem como objetivo criar uma aplicação para o gerenciamento eficie
    ```bash
    git clone https://github.com/seu-usuario/sistema-residuos-marica.git
    cd sistema-residuos-marica
+
+2. **Instale as Dependências Backend**
+   ```bash
+   cd backend
+   npm install
+
+2. **Instale as Dependências Backend**
+   ```bash
+   cd backend
+   npm install
+
+
+3. **Frontend**
+   ```bash
+
+
+5. **Acesse a Aplicação**
+   Backend: http://localhost:5000
+   Frontend: http://localhost:3000
